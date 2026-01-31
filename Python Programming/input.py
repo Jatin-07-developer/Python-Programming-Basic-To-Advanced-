@@ -1,0 +1,13 @@
+# INPUT () STATEMENTS IS USED TO ACCEPT VALUES FROM THE USER USING THE KEYBOARD....
+
+# STRING INPUT:-
+name = input("name = ")
+print(name) # THIS WILL PRINT THE NAME ENTERED BY THE USER...
+
+# INTEGER INPUT:-
+age = int(input("age = "))
+print(age) # THIS WILL PRINT THE VALUE OF AGE ENTERED BY THE USER...
+
+# FLOAT INPUT:-
+price = float(input("price = "))
+print(price) # THIS WILL PRINT THE VALUE OF PRICE ENTERED BY THE USER...

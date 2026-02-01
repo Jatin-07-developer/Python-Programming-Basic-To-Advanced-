@@ -1,0 +1,9 @@
+# IT IS WHEN A FUCTION CALLS ITSELF REPEATEDLY....
+
+def show(n):     # THIS IS CALLED A RECURSIVE FUNCTION...
+    if(n == 0):  # THIS IS KNOWN AS THE BASE CASE...
+        return
+    print(n)
+    show(n-1)
+
+show(5)
